@@ -6,8 +6,6 @@ I am a Informatics Engineering student at the University Muhammadiyah Prof. Dr. 
 - 👯 I’m looking to collaborate with other programmer
 
 ### Get in touch
-- Twitter: https://twitter.com/pikk_7
-- Instagram: https://instagram.com/pikk_7
 - Portfolio: https://taufikakbar7.vercel.app
 - LinkedIn: https://linkedin.com/in/taufik-akbar-5842771a2
 
